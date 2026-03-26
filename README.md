@@ -1,3 +1,29 @@
+# 📝 To-do List Angular
+
+Une application de gestion des tâches minimaliste, construite avec **Angular** pour démontrer 
+une architecture propre et une UX intuitive.
+
+## 🎨 Caractéristiques
+- ✅ Créer, lire, modifier, supprimer des tâches
+- 🎯 Interface user-friendly et responsive
+- ⚡ Performance optimisée avec Angular
+- 📱 Compatible tous appareils
+
+## 🛠️ Tech Stack
+- Angular (latest)
+- TypeScript
+- Express (serveur)
+- CSS moderne
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm start
+
+
+
+
 # ToDoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
